@@ -203,7 +203,8 @@ p {
         text-align: center;
     }
     .title-image{
-        position: static;
+        position: relative;
+        right:32.5px;
         transform: rotate(0);
     }
 }
